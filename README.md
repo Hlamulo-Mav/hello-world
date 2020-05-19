@@ -1,2 +1,2 @@
 # hello-world
-this is me finally leaning github
+this is me finally learning github. its so much easier than i thought.
